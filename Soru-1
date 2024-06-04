@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+```js
+const sayHi = () => {
+    console.log("Merhaba Dünya")
+}
+```
 
 #define SIZE 500
 
